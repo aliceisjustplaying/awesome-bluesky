@@ -21,6 +21,7 @@ Always use an app password, never your main password!
  - [Atlas](https://bsky.jazco.dev/) - Aggregate stats for all posts
  - [bsky charts](https://bskycharts.edavis.dev/edavis.dev/bskycharts.edavis.dev/index.html) - Charts of Bluesky network activity
  - [Bluesky Stats](https://blue.mackuba.eu/stats/) - Bluesky activity stats
+ - [Emiji Stats for Bluesky](https://emojistats.bsky.sh) - Emoji usage in posts aggregate and per-language
  - [Handle Directory](https://blue.mackuba.eu/directory/) - Bluesky handles directory (TLDs, PDSes, Fediverse)
  - [Skircle](https://skircle.me/) - Generate social circle images
  - [Wolfgang](https://wolfgang.raios.xyz/) - Interactions, social circles, blocks
